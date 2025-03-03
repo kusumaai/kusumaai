@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kusumaai
+- 👋 Hi, I’m Phil from kusumaai
 - 👀 I’m interested in python, llm, openwebui, ollama, finance, trading
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on anything LLM, Qwen, Open.
